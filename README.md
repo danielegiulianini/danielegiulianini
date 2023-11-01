@@ -23,3 +23,6 @@ I am Daniele Giulianini, a passionate computer science and engineering master’
 - 🤩 Have a keen interest in everything concerning computer science and Software engineering and enjoy solving complex problems through innovative solutions.
 - 🌱 Constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech world.
 - 🔍 More information about me are available [here](cv/cv).
+
+#### Contact Me
+I am excited to connect with professionals in the tech industry. You can reach out to me via [LinkedIn](https://www.linkedin.com/in/daniele-giulianini-79a34626b/).
