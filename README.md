@@ -24,5 +24,11 @@ I am Daniele Giulianini, a passionate computer science and engineering master’
 - 🌱 Constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech world.
 - 🔍 More information about me are available [here](cv/cv).
 
+#### Projects
+My recent, most notable projects:
+- 🚀qu-bft: A reusable, generic, async, gRPC-interoperable BFT protocol library for scala developers to build up BFT services.
+- 🚀inbestment-portfolio: a web-based and machine-learning fostered prototype tool to find your best financial investment portfolio by means of ARIMA and GARCH models, decision tree and bagging-based regressors, risk estimation advanced tecniques, implemented with Python and aspnetcore.
+- 🚀swingio: a reusable and lightweight library that provides an access point to the swing APIs in scala with a monadic taste, leveraging IO monad, in a purely functional fashion.
+
 #### Contact Me
-I am excited to connect with professionals in the tech industry. You can reach out to me via [LinkedIn](https://www.linkedin.com/in/daniele-giulianini-79a34626b/).
+I a appreciate connecting with professionals in the tech industry. You can reach out to me via [LinkedIn](https://www.linkedin.com/in/daniele-giulianini-79a34626b/).
