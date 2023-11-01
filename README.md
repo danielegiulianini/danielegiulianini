@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Daniele Giulianini, a passionate computer science and engineering master’s graduate, selected for the prestigious High Flyer Day by AlmaLaurea as one of the top 20-performing Italian ICT graduates in 2023.
+I am Daniele Giulianini, a passionate computer science and engineering master’s graduate, selected for the prestigious [High Flyer Day](https://www.almalaurea.it/servizi-per-le-imprese/eventi-di-selezione/high-flyers-day) by [AlmaLaurea](https://www.almalaurea.it/) as one of the top 20-performing Italian ICT graduates in 2023.
 
 #### About me
-- 🎓 Recently graduated in Computer Science and Engineering from the University of Bologna Italy.
+- 🎓 Recently graduated in Computer Science and Engineering from the University of Bologna from Italy.
 - 💻 Proficient in various programming paradigms, languages (including scala, Java, Python, JavaScript) and SW design (including design patterns) and development (such as CI/CD, testing, agile) practices.
 - 🔬 Specialized in advanced software development tecniques, machine learning, high-performance computing, distributed programming, optimization, CI/CD, DBMSs.
 - 🤩 Have a keen interest in everything concerning computer science and Software engineering and enjoy solving complex problems through innovative solutions.
