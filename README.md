@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Daniele Giulianini 👋
 <!--
 **danielegiulianini/danielegiulianini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Daniele Giulianini, a passionate computer science and engineering master’s graduate, selected for the prestigious High Flyer Day by AlmaLaurea as one of the top 20-performing Italian ICT graduates in 2023.
