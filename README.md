@@ -24,7 +24,7 @@ I am Daniele Giulianini, a passionate computer science and engineering master’
 - 🔬 Specialized in advanced software development tecniques, machine learning, high-performance computing, distributed programming, optimization, CI/CD, DBMSs.
 - 🤩 Have a keen interest in everything concerning computer science and Software engineering and enjoy solving complex problems through innovative solutions.
 - 🌱 Constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech world.
-- 🔍 More information about me is available [here](https://www.linkedin.com/in/daniele-giulianini-79a34626b/).
+- 🔍 More information about me is available [here](https://www.linkedin.com/in/danielegiulianini/).
 
 #### Projects
 My recent, most notable projects:
@@ -33,4 +33,4 @@ My recent, most notable projects:
 - 🚀swingio: a reusable and lightweight library that provides an access point to the swing APIs in scala with a monadic taste, leveraging IO monad, in a purely functional fashion.
 
 #### Contact Me
-I appreciate connecting with professionals in the tech industry. You can reach out to me via [LinkedIn](https://www.linkedin.com/in/daniele-giulianini-79a34626b/).
+I appreciate connecting with professionals in the tech industry. You can reach out to me via [LinkedIn](https://www.linkedin.com/in/danielegiulianini/).
