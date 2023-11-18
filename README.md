@@ -14,23 +14,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Daniele Giulianini, a passionate computer science and engineering master’s graduate, selected for the prestigious [High Flyers Day](https://www.almalaurea.it/servizi-per-le-imprese/eventi-di-selezione/high-flyers-day) by [AlmaLaurea](https://www.almalaurea.it/) as one of the top 20-performing Italian ICT graduates in 2023.
+I am Daniele Giulianini, a passionate Computer Science & Engineering master’s graduate, selected for the prestigious [High Flyers Day](https://www.almalaurea.it/servizi-per-le-imprese/eventi-di-selezione/high-flyers-day) by [AlmaLaurea](https://www.almalaurea.it/) as one of the top 20-performing Italian ICT graduates in 2023.
 
 #### About me
 
 <!-- still missing the "I'm currently working for ..."-->
 - 🎓 Recently graduated in Computer Science and Engineering from the University of Bologna from Italy.
-- 💻 Proficient in various programming paradigms (including OO, functional), languages (including scala, Java, Python, JavaScript) and SW design (including design patterns) and development (such as CI/CD, testing, agile) practices.
-- 🔬 Specialized in advanced software development tecniques, machine learning, high-performance computing, distributed programming, optimization, CI/CD, DBMSs.
-- 🤩 Have a keen interest in everything concerning computer science and Software engineering and enjoy solving complex problems through innovative solutions.
+- 💻 Proficient in various programming paradigms (including Oobject-Oriented and functional), languages (including Scala, Java, Python, JavaScript) and SW design (including design patterns) and development (such as CI/CD, testing, agile) practices.
+- 🔬 Specialized in advanced software development tecniques, High-Performance Computing, distributed programming, optimization, CI/CD, DBMSs.
+- 🤩 Have a keen interest in everything concerning Computer science and Software Engineering and enjoy solving complex problems through innovative solutions.
 - 🌱 Constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech world.
 - 🔍 More information about me is available [here](https://www.linkedin.com/in/danielegiulianini/).
 
 #### Projects
 My recent, most notable projects:
-- 🚀qu-bft: A reusable, generic, async, gRPC-interoperable BFT protocol library for scala developers to build up BFT services.
+- 🚀qu-bft: a reusable, generic, async, gRPC-interoperable Byzantine-Fault tolerant (BFT) protocol library for Scala developers to build up BFT services.
 - 🚀inbestment-portfolio: a web-based and machine-learning fostered prototype tool to find your best financial investment portfolio by means of ARIMA and GARCH models, decision tree and bagging-based regressors, risk estimation advanced tecniques, implemented with Python and aspnetcore.
-- 🚀swingio: a reusable and lightweight library that provides an access point to the swing APIs in scala with a monadic taste, leveraging IO monad, in a purely functional fashion.
+- 🚀swingio: a reusable and lightweight library that provides an access point to the swing APIs in Scala with a monadic taste, leveraging IO monad, in a purely functional fashion.
 
 #### Contact Me
 I appreciate connecting with professionals in the tech industry. You can reach out to me via [LinkedIn](https://www.linkedin.com/in/danielegiulianini/).
