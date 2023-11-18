@@ -29,7 +29,7 @@ I am Daniele Giulianini, a passionate Computer Science & Engineering master’s 
 #### Projects
 My recent, most notable projects:
 - 🚀qu-bft: a reusable, generic, async, gRPC-interoperable Byzantine-Fault tolerant (BFT) protocol library for Scala developers to build up BFT services.
-- 🚀inbestment-portfolio: a web-based and machine-learning fostered prototype tool to find your best financial investment portfolio by means of ARIMA and GARCH models, decision tree and bagging-based regressors, risk estimation advanced tecniques, implemented with Python and aspnetcore.
+- 🚀inbestment-portfolio: a web-based and machine-learning fostered prototype tool to find your best financial investment portfolio by means of ARIMA and GARCH models, decision tree and bagging-based regressors, risk estimation advanced tecniques, implemented with Python and ASP.NET Core.
 - 🚀swingio: a reusable and lightweight library that provides an access point to the swing APIs in Scala with a monadic taste, leveraging IO monad, in a purely functional fashion.
 
 #### Contact Me
