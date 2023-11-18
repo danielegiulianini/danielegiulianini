@@ -21,7 +21,7 @@ I am Daniele Giulianini, a passionate Computer Science & Engineering master’s 
 <!-- still missing the "I'm currently working for ..."-->
 - 🎓 Recently graduated in Computer Science and Engineering from the University of Bologna, Italy.
 - 💻 Proficient in various programming paradigms (including Object-Oriented and functional), languages (including Scala, Java, Python, JavaScript) and Software Design (including design patterns) and development (such as CI/CD, testing, agile) practices.
-- 🔬 Specialized in advanced software development techniques, High-Performance Computing, distributed programming, optimization, CI/CD, DBMSs.
+- 🔬 Specialized in advanced software development techniques, High-Performance Computing, distributed programming, optimization, DBMSs.
 - 🤩 Have a keen interest in everything concerning Computer science and Software Engineering and enjoy solving complex problems through innovative solutions.
 - 🌱 Constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech world.
 - 🔍 More information about me is available [here](https://www.linkedin.com/in/danielegiulianini/).
