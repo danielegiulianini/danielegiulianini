@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Daniele Giulianini, a passionate Computer Science & Engineering master’s graduate, selected for the prestigious [High Flyers Day](https://www.almalaurea.it/servizi-per-le-imprese/eventi-di-selezione/high-flyers-day) by [AlmaLaurea](https://www.almalaurea.it/) as one of the top 20-performing Italian ICT graduates in 2023.
+I am Daniele Giulianini, a passionate Computer Science & Engineering master’s graduate, selected for the prestigious [High Flyers Day](https://www.almalaurea.it/en/services-for-companies/recruiting-events/high-flyers-day) by [AlmaLaurea](https://www.almalaurea.it/en) as one of the top 20-performing Italian ICT graduates in 2023.
 
 #### About me
 
